@@ -1,0 +1,29 @@
+.gg_all{
+	width: 1400px;
+    margin: 0 auto;
+    position: relative;
+    font-size: 0;
+    text-align: center;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.gg_left{
+	float: left;
+	margin-right: 0;
+    overflow: hidden;
+    width: 920px;
+    text-align: center;
+    height: 75px; 
+    display: block; 
+    position: relative;
+    background-image: url(../img/7us0b98b.jpg);
+    background-position: 60px -25px;
+}
+.gg_right{
+	width: 440px;
+	height: 75px;
+	float: right;
+	position: relative;
+	text-align: center;
+	background-image: url(../img/ninja153907291410277.png);
+}

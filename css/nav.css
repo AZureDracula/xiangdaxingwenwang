@@ -1,0 +1,35 @@
+.nav{
+	
+	width: 1400px;
+    margin: 0 auto;
+    height: 50px;
+    
+}
+.nav_list{
+	position: relative;
+    height: 50px;
+    padding-left: 20px;
+    background-color: #1479d7;
+    font-size: 18px;
+    border-radius: 3px;
+}
+.nav_ul{
+	line-height: 50px;    
+	float: left;
+	display: block;
+    list-style-type: none;
+}
+.nav_li{
+	font-size: 18px;
+    line-height: 50px;
+	float: left;
+	height: 50px;
+    width: 106px;
+    text-align: center;
+    
+}
+.nav_a{
+	padding: 4px 5px;
+    color: white !important;
+    text-decoration: none;
+}
